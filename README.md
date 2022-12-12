@@ -5,3 +5,4 @@ Nim   : 120140125\
 Kelas : Praktikum Pemrograman Web Kelas C -  Pemrograman Web RB
 
 ![Hasil](img/Screenshot%202022-12-12%20213126.png)
+![Screenshot](img/Screenshot%202022-12-12%20213858.png)
